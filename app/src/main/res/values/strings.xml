@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Knight Emulator</string>
+    <string name="culculate_paths_en">Calculate Paths</string>
+    <string name="knights_starting_position_en">Knight\'s starting position %1$d</string>
+    <string name="knights_ending_position_en">Knight\'s ending position %1$d</string>
+    <string name="feature_not_implemented_en">Feature not yet implemented</string>
 </resources>
